@@ -12,8 +12,9 @@
  * Created on 2 de febrero de 2023, 12:23
  */
 
+
 #include <string>
-#include "Bigram.h"
+#include "Bigram.h" //For bigram class
 
 using  namespace std;
 /**
